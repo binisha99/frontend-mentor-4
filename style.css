@@ -32,7 +32,7 @@ body {
 .container {
   padding: 2rem;
 }
-.star_icon {
+img {
   background-color: var(--secondary);
   width: fit-content;
   padding: 1rem;

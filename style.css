@@ -24,7 +24,7 @@ body {
   justify-content: center;
   background-color: var(--Very-Dark-Blue);
 }
-.card {
+.wrapper {
   background-color: var(--Dark-Blue);
   border-radius: 1rem;
   width: 350px;
@@ -90,7 +90,7 @@ img {
 .thank_section {
   text-align: center;
 }
-.chip {
+.result {
   background-color: var(--secondary);
   width: fit-content;
   margin: 1rem auto;
